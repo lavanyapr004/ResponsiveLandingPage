@@ -21,4 +21,3 @@ It was developed as part of my **Web Development Internship with OutriX**.
 
 
 
-## 📂 Project Structure  
