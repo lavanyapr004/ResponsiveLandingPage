@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.hero {
+  background: linear-gradient(90deg, #007bff, #6610f2);
+  color: white;
+  padding: 100px 20px;
+}
+
+.card {
+  transition: transform 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+footer {
+  background-color: #007bff;
+  color: white;
+  padding: 15px 0;
+}
